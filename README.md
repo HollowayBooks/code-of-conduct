@@ -1,6 +1,6 @@
 # Code of Conduct
 
-The [Holloway Community Slack Group](https://docs.google.com/forms/u/1/d/1vSCq-BfCQxg_B39OxWFi0vYHND_ImhBYfK8GQYbL2YE/edit?usp=drive_web) exists for to facilitate communication, the sharing of ideas, and encouragement between three groups: Holloway readers, invited contributors, and staff. We believe having an open channel of communication between these groups will help us achieve our long-term purpose: To offer helpful guidance with long-term value that is trustworthy and accessible. (See our [Editorial Principles and Standards](https://www.holloway.com/editorial-principles-and-standards) for more detail.)
+The [Holloway Community Slack Group](https://docs.google.com/forms/u/1/d/1vSCq-BfCQxg_B39OxWFi0vYHND_ImhBYfK8GQYbL2YE/edit?usp=drive_web) exists for to facilitate communication, the sharing of ideas, and encouragement between three groups: Holloway readers, invited contributors, and staff. We believe having an open channel of communication between these groups will help us achieve our long-term purpose: To offer helpful guidance with long-term value that is trustworthy and accessible. (See our [Editorial Principles](https://www.holloway.com/g/editorial-principles) for more detail.)
 
 In order to build community that is **truly helpful**, we believe the environment in this Slack group must be kind, safe, and inclusive; free from intimidation or harassment.
 
